@@ -3,7 +3,7 @@ name: PocKit
 version: 0.0.1
 main: LemoniqPvP\PocKit\Main
 api: 4.0.0
-
+# random text to make .phar on poggit cuz i am lazy
 commands:
   kiteditor:
     permission: pockit.command.kiteditor
